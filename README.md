@@ -1,401 +1,523 @@
-<!-- 
-░█▀▄▀█ █▀▀█ █▀▀▄ ░▀░ █▀▀ █░░█ █▀▀█ 　 █▀▀█ █▀▀█ ░▀░ █░░█ █▀▀█ 
-░█░█░█ █▄▄█ █░░█ ▀█▀ ▀▀█ █▀▀█ █▄▄█ 　 █░░█ █▄▄▀ ▀█▀ █▄▄█ █▄▄█ 
-░█░░░█ ▀░░▀ ▀░░▀ ▀▀▀ ▀▀▀ ▀░░▀ ▀░░▀ 　 █▀▀▀ ▀░▀▀ ▀▀▀ ▄▄▄█ ▀░░▀
--->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manisha%20Priya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20DevOps%20Innovator%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=51" width="100%"/>
+</h1>
 
 <div align="center">
   
-  <!-- Animated typing header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manisha+Priya;AI+Engineer+%7C+DevOps+Innovator;Full-Stack+%26+Android+Developer;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- 3D Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Intelligent%2C+Self-Healing+Systems+%F0%9F%A4%96;AI+%7C+Cloud+Architecture+%7C+DevOps+Automation+%E2%98%81%EF%B8%8F;Transforming+Ideas+into+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <br/>
   
-  <p>
-    <em>Transforming ideas into intelligent, scalable solutions • Passionate about AI Agents, Cloud Architecture & Automation</em>
-  </p>
-
-  <!-- Social badges with icons -->
-  <p>
-    <a href="mailto:manishapriya1325@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/manishapriya">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/M1325-source">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="tel:+917986629497">
-      <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-    </a>
-  </p>
-
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=M1325-source&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- Animated 3D Profile Badge -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
 </div>
 
----
-
-## 🚀 Quick Highlights
-
+<!-- 3D Social Links -->
 <div align="center">
-  
-| 🎓 Education | 💼 Experience | 🏆 Achievements | 💻 Projects |
-|:---:|:---:|:---:|:---:|
-| **B.Tech CSE** @ LPU | **Walmart SWE** Virtual Intern | **₹15K Google Nibbler Winner** | **10+ Production Systems** |
-| **CGPA: 7.5/10** | **Top 11% in CSE** | **Flipkart Grid 6.0 Finalist** | **85% Deployment Reliability** |
-| **2022 - 2026** | **AI/ML Specialist** | **Google Girls Hackathon R2** | **50% Efficiency Boost** |
-
+  <a href="https://www.linkedin.com/in/manishapriya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="margin: 5px;"/>
+  </a>
+  <a href="mailto:manishapriya1325@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" style="margin: 5px;"/>
+  </a>
+  <a href="https://github.com/M1325-source" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="margin: 5px;"/>
+  </a>
+  <a href="tel:+917986629497">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" style="margin: 5px;"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=M1325-source&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/M1325-source?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/M1325-source?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-```python
-class ManishaPriya:
-    def __init__(self):
-        self.name = "Manisha Priya"
-        self.role = "AI Engineer & DevOps Innovator"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech CSE @ Lovely Professional University"
-        self.cgpa = 7.5
-        
-    def current_focus(self):
-        return [
-            "🤖 AI Agents & Autonomous Systems",
-            "☁️ Cloud-Native Architecture (AWS, Azure)",
-            "🔄 CI/CD Automation & DevOps",
-            "📱 Full-Stack & Android Development",
-            "🧠 Generative AI & LLMs (GPT-4, RAG)"
-        ]
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python", "Java", "JavaScript", "TypeScript", "C++", "Kotlin"],
-            "ai_ml": ["TensorFlow", "PyTorch", "LangChain", "RAG", "NLP", "Computer Vision"],
-            "backend": ["Spring Boot", "FastAPI", "Flask", "Node.js", "Microservices"],
-            "frontend": ["React", "TypeScript", "TailwindCSS", "Android Studio"],
-            "cloud_devops": ["AWS", "Azure", "Docker", "Kubernetes", "GitHub Actions"],
-            "databases": ["PostgreSQL", "MongoDB", "Firebase", "MySQL"]
-        }
-    
-    def achievements(self):
-        return {
-            "🏆 Awards": ["₹15K Google Nibbler Winner", "Flipkart Grid 6.0 Finalist"],
-            "🎯 Hackathons": ["Google Girls Hackathon R2", "Smart India Hackathon"],
-            "📊 Competitive": ["200+ LeetCode Problems", "Top 11% in Department"],
-            "🎓 Programs": ["Amazon ML Summer School", "Walmart SWE Virtual Intern"]
-        }
+<br/>
 
-me = ManishaPriya()
-print(me.current_focus())
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const manishaPriya = {
+    pronouns: "She/Her",
+    location: "India 🇮🇳",
+    education: {
+        degree: "B.Tech in Computer Science",
+        university: "Lovely Professional University",
+        cgpa: "7.5/10.0",
+        graduation: "May 2026",
+        rank: "Top 11% in CSE Department"
+    },
+    currentFocus: [
+        "🤖 AI Agents & Autonomous Systems",
+        "☁️ Cloud-Native Architecture",
+        "🔄 CI/CD & DevOps Automation",
+        "🧠 Generative AI & LLMs",
+        "📱 Full-Stack Development"
+    ],
+    lookingFor: "AI Engineer / ML Engineer / DevOps Roles",
+    funFact: "I automate everything, even my coffee breaks! ☕️🤖",
+    motto: "Code. Build. Automate. Repeat. 🚀"
+};
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Stack Arsenal
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🏆 Achievements & Awards
 
 <div align="center">
 
-### 💻 Languages & Core
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518289e2-4f12-4552-b97c-43c23b53e6c4.png" width="80" />
+<br/><strong>₹15K Winner</strong>
+<br/><sub>Google Nibbler AI Project</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d42c4f-27d1-4a9e-b550-2d55311b9ac2.png" width="80" />
+<br/><strong>National Finalist</strong>
+<br/><sub>Flipkart Grid 6.0</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" />
+<br/><strong>Round 2 Qualifier</strong>
+<br/><sub>Google Girls Hackathon</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab4f430929.png" width="80" />
+<br/><strong>Top 11%</strong>
+<br/><sub>Academic Excellence</sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" />
+<br/><strong>200+ Problems</strong>
+<br/><sub>LeetCode • GfG • HackerRank</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b5e5d.png" width="80" />
+<br/><strong>Selected Participant</strong>
+<br/><sub>Smart India Hackathon</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab4f430929.png" width="80" />
+<br/><strong>ML Summer School</strong>
+<br/><sub>Amazon • Competitive Program</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,kotlin,html,css,sql" />
 </p>
 
-### 🤖 AI/ML & Generative AI
+### 🤖 AI/ML & Data Science
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🌐 Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,express" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 🎨 Frontend & Mobile
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,androidstudio" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,github" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,git,postman,maven" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🔧 Project | 💡 Description | 🛠️ Tech Stack | 📊 Impact |
-|:---|:---|:---|:---|
-| **[🤖 Self-Healing DevOps Agent](https://github.com/M1325-source/SelfHealingCodeAgent)** | AI-powered CI/CD automation detecting errors and auto-generating code fixes using GPT-4 | `Python` `GPT-4` `Streamlit` `GitHub Actions` | **+85% Reliability** |
-| **[🏥 Health Risk Predictor](https://github.com/M1325-source/health-risk-predictor)** | Dual-backend ML system (Spring Boot + FastAPI) for real-time health risk assessment | `Spring Boot` `FastAPI` `Docker` `Maven` | **+50% Efficiency** |
-| **[🛡️ Intelligent Compliance Assistant](https://github.com/M1325-source/intelligent-compliance-assistant)** | AI-powered compliance automation with microservice architecture for regulatory analysis | `Python` `Spring Boot` `PostgreSQL` `MongoDB` | **-40% Manual Effort** |
-| **[🗣️ VisionVoice AI](https://github.com/M1325-source/visionvoice)** | Cloud-native accessibility tool with multi-language OCR and text-to-speech for visually impaired | `Flask` `Azure` `Tesseract` `GTTS` | **2K+ Documents** |
-| **[📱 Smart Surveillance App](https://github.com/M1325-source/Smart-Surveillance-App)** | Real-time monitoring with facial recognition, sentiment analysis, and Firebase integration | `React` `TypeScript` `Firebase` `Docker` | **+60% Efficiency** |
-| **[💬 Twitter Sentiment Analyzer](https://github.com/M1325-source/Sentiment-Analysis)** | NLP-based sentiment classification using TF-IDF and Logistic Regression | `Python` `NLTK` `scikit-learn` | **84% Accuracy** |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Self-Healing DevOps Agent](https://github.com/M1325-source/SelfHealingCodeAgent)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**AI-powered CI/CD automation**
+- Detects errors using log analysis
+- Auto-generates fixes with GPT-4
+- Creates automated pull requests
+
+**Impact:** `+85% Reliability`
+
+**Tech:** `Python` `GPT-4` `Streamlit` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [Health Risk Predictor](https://github.com/M1325-source/health-risk-predictor)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**Dual-backend ML prediction system**
+- Spring Boot + FastAPI architecture
+- Real-time health risk assessment
+- Docker containerized deployment
+
+**Impact:** `+50% Efficiency`
+
+**Tech:** `Spring Boot` `FastAPI` `Docker` `ML`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Intelligent Compliance Assistant](https://github.com/M1325-source/intelligent-compliance-assistant)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**AI-powered compliance automation**
+- Regulatory document analysis
+- Microservice architecture
+- Automated policy checking
+
+**Impact:** `-40% Manual Effort`
+
+**Tech:** `Python` `Spring Boot` `PostgreSQL` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ [VisionVoice AI Assistant](https://github.com/M1325-source/visionvoice)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**Cloud-native accessibility tool**
+- Multi-language OCR & TTS
+- Azure Cognitive Services
+- Helps visually impaired users
+
+**Impact:** `2K+ Documents Processed`
+
+**Tech:** `Flask` `Azure` `Tesseract` `GTTS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [Smart Surveillance System](https://github.com/M1325-source/Smart-Surveillance-App)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+**Real-time monitoring platform**
+- Facial recognition & sentiment analysis
+- Multi-camera synchronized feeds
+- Firebase real-time alerts
+
+**Impact:** `+60% Security Efficiency`
+
+**Tech:** `React` `TypeScript` `Firebase` `TensorFlow`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [Twitter Sentiment Analyzer](https://github.com/M1325-source/Sentiment-Analysis)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**NLP-based sentiment classification**
+- TF-IDF vectorization
+- Logistic Regression model
+- Real-time tweet analysis
+
+**Accuracy:** `84%`
+
+**Tech:** `Python` `NLTK` `scikit-learn` `Matplotlib`
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
-<details>
-<summary><b>🔍 View More Projects</b></summary>
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### Additional Projects
-
-- **[🏪 Walmart SWE Virtual Experience](https://github.com/M1325-source/Walmart-SWE-Virtual-Experience)** - Optimized shipping & inventory system with heap DS and SQL schema design
-- **[📊 Hospital Management System](https://github.com/M1325-source/spring-boot-data-jpa-hospital-management-system)** - Enterprise-grade system with Spring Boot, JPA, OAuth2, and RBAC
-- **[🎯 Tax Assistant AI](https://github.com/M1325-source)** - Google Girls Hackathon Round 2 qualifier - intelligent tax filing assistant
-
-</details>
-
----
-
-## 🏆 Achievements & Recognition
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| 🥇 Award/Achievement | 🏢 Organization | 📅 Year | 🎯 Details |
-|:---|:---|:---:|:---|
-| **Google Nibbler Winner** | Google | 2025 | ₹15,000 prize for AI workflow automation excellence |
-| **Flipkart Grid 6.0 Finalist** | Flipkart | 2024 | National Semi-Finalist in Robotics & Automation track (among thousands) |
-| **Google Girls Hackathon** | Google | 2025 | Advanced to Round 2 with innovative "Tax Assistant AI" solution |
-| **Smart India Hackathon** | Govt. of India | 2024 | Selected participant delivering tech solutions for government challenges |
-| **Amazon ML Summer School** | Amazon | 2024 | Accepted into competitive program for advanced ML algorithms |
-| **Academic Excellence** | LPU | 2024 | **Top 11%** in Computer Science Engineering cohort |
-| **Competitive Programming** | Multiple Platforms | Ongoing | **200+ problems** solved across LeetCode, GfG, HackerRank |
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 💻 Advanced Software Engineering Virtual Internship
-**Walmart USA (Forage)** | *Oct 2025* | Remote
-
-```yaml
-Role: Software Engineering Intern
-Focus: Data Structures, System Design, Database Optimization
-
-Achievements:
-  - Optimized shipping algorithms using custom heap implementation (Java)
-  - Performance: 30% reduction in query latency
-  - Database: Designed relational schemas improving query performance by 20%
-  - Architecture: Developed UML-based modular system reducing defects by 15%
-
-Skills Applied:
-  - Data Structures & Algorithms
-  - Database Schema Design
-  - System Architecture (UML)
-  - Performance Optimization
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1325-source&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1325-source&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M1325-source&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M1325-source&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M1325-source&theme=tokyonight" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M1325-source&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1325-source&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=M1325-source&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 </div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M1325-source&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=M1325source&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" width="49%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=M1325-source&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" width="49%" />
+</div>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 💼 Professional Experience
 
 <div align="center">
 
-### 🏅 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=M1325-source&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 💻 **Advanced Software Engineering Virtual Internship**
+**Walmart USA (Forage)** | Oct 2025 | Remote
+
+<img src="https://user-images.githubusercontent.com/74038190/212257474-808f8c04-059f-4a3a-a185-3e50aca99085.gif" width="80">
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Key Achievements:**
+- ⚡ **30% latency reduction** through custom heap data structure in Java
+- 📊 **20% query performance boost** via optimized database schema design
+- 🏗️ **15% fewer production defects** with UML-based modular architecture
+- 🎯 Focused on data structures, algorithms, and system optimization
+
+**Skills Applied:** `Java` `Data Structures` `Database Design` `System Architecture` `Performance Optimization`
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📈 Contribution Activity
+## 🎓 Education
 
 <div align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
 
-<img src="https://github-contributor-stats.vercel.app/api?username=M1325-source&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+### **Lovely Professional University**
+**Bachelor of Technology - Computer Science & Engineering**
+
+📅 **Aug 2022 - May 2026**  
+🎯 **CGPA: 7.5/10.0**  
+🏆 **Top 11% in CSE Department**
+
+</td>
+</tr>
+</table>
+
+**📚 Relevant Coursework:**
+
+<table>
+<tr>
+<td>🤖 Machine Learning</td>
+<td>🧠 Deep Learning</td>
+<td>💬 Natural Language Processing</td>
+</tr>
+<tr>
+<td>👁️ Computer Vision</td>
+<td>📊 Data Structures & Algorithms</td>
+<td>🗄️ Database Management Systems</td>
+</tr>
+<tr>
+<td>🌐 Computer Networks</td>
+<td>🔐 Information Security</td>
+<td>☁️ Cloud Computing</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎓 Education & Coursework
+## 📈 Contribution Graph
 
 <div align="center">
 
-### 🏫 Lovely Professional University
-**Bachelor of Technology in Computer Science and Engineering**  
-*Aug 2022 - May 2026* | **CGPA: 7.5/10.0**
-
-#### 📚 Relevant Coursework
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│  🤖 Machine Learning       │  🧠 Deep Learning                 │
-│  💬 Natural Language Proc. │  👁️ Computer Vision              │
-│  📊 Data Structures & Algo │  🗄️ Database Management Systems  │
-│  🌐 Computer Networks      │  🔐 Information Security         │
-│  ☁️ Cloud Computing        │  🏗️ Software Engineering         │
-└────────────────────────────────────────────────────────────────┘
-```
-
-**Academic Achievement:** Ranked in **Top 11%** of CSE Department
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M1325-source&custom_title=Manisha's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=00D9FF&area=true" width="98%" />
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🌟 What I'm Currently Working On
 
 <div align="center">
 
-| 🔬 Research | 🛠️ Development | 📚 Learning |
-|:---:|:---:|:---:|
-| AI Agents & Agentic Workflows | Production-grade ML Systems | Advanced RAG Techniques |
-| Self-Healing Systems | Cloud-Native Architecture | LLM Fine-tuning |
-| Autonomous DevOps | Microservices at Scale | Kubernetes Deep Dive |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<br/><strong>AI Agents</strong>
+<br/><sub>Building autonomous systems</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br/><strong>Cloud Architecture</strong>
+<br/><sub>Scalable microservices</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<br/><strong>LLM Applications</strong>
+<br/><sub>RAG & fine-tuning</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects, especially in:
-- 🤖 **AI/ML & Generative AI** (LLMs, RAG, Agents)
-- ☁️ **Cloud Architecture** & DevOps Automation
-- 📱 **Full-Stack & Mobile Development**
-- 🔧 **Open Source Contributions**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 
-### 📫 Reach Out
+### I'm open to collaborating on:
 
-<p>
-  <a href="mailto:manishapriya1325@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manishapriya1325@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+🤖 **AI/ML Projects** • ☁️ **Cloud-Native Solutions** • 🔄 **DevOps Automation**  
+📱 **Mobile Development** • 🌐 **Full-Stack Applications** • 🔧 **Open Source Contributions**
 
-<p>
-  <a href="https://www.linkedin.com/in/manishapriya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/M1325-source">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="tel:+917986629497">
-    <img src="https://img.shields.io/badge/Call-+91--7986629497-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-### 💡 Open to Opportunities
+### 💼 Open to Opportunities:
 
-```python
-opportunities = {
-    "roles": ["AI Engineer", "ML Engineer", "DevOps Engineer", "Full-Stack Developer"],
-    "type": ["Full-time", "Internship", "Contract", "Freelance"],
-    "mode": ["Remote", "Hybrid", "On-site"],
-    "interests": ["AI/ML", "Cloud Native", "Automation", "Scalable Systems"]
-}
-
-if interested_in_hiring:
-    print("Let's discuss how I can contribute to your team! 🚀")
-    schedule_call("manishapriya1325@gmail.com")
+```yaml
+Roles: [AI Engineer, ML Engineer, DevOps Engineer, Full-Stack Developer]
+Type: [Full-time, Internship, Contract, Freelance]
+Mode: [Remote, Hybrid, On-site]
+Interests: [AI/ML, Cloud Native, Automation, Scalable Systems]
 ```
+
+### 📫 Reach Out:
+
+<a href="mailto:manishapriya1325@gmail.com">
+  <img src="https://img.shields.io/badge/Email-manishapriya1325@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/manishapriya">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="tel:+917986629497">
+  <img src="https://img.shields.io/badge/Call-+91--7986629497-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 </div>
 
----
-
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical articles on AI, DevOps, and System Design
-<!-- BLOG-POST-LIST:END -->
-
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 💭 Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
-### 🌟 "Building intelligent, scalable systems that empower people and automate the impossible." 🌟
+### 🌟 **"Building intelligent, scalable systems that empower people and automate the impossible."** 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
-**Made with ❤️ by Manisha Priya**
+---
 
-⭐️ From [M1325-source](https://github.com/M1325-source)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-<img src="https://img.shields.io/github/followers/M1325-source?label=Followers&style=social" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/M1325-source?label=Stars&style=social" alt="GitHub Stars"/>
+**Made with ❤️ and ☕ by Manisha Priya**
+
+⭐️ **If you like my work, consider giving my repos a star!** ⭐️
+
+![GitHub followers](https://img.shields.io/github/followers/M1325-source?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/M1325-source?style=social)
 
 *Last Updated: February 2026*
 
